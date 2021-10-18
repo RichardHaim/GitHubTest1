@@ -1,0 +1,9 @@
+# Ich bin Testfile2
+
+def test(x):
+    x += 1
+    return x
+
+print(x)
+
+# Ende Testfile
